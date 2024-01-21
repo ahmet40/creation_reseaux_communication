@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"modele.bd","l":"AmisBd"},{"p":"modele.bd","l":"ConnexionBd"},{"p":"modele.bd","l":"LikeBd"},{"p":"modele.bd","l":"MessageBd"},{"p":"modele.bd","l":"UtilisateurBd"}];updateSearchResults();
